@@ -1,0 +1,1 @@
+//actividad 1a- mostrar textos distintos a las imagenes
